@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['n_0',['n',['../structspgxyz_1_1_opt_params.html#a13b9292f2b9b052045dc7a848de8bd89',1,'spgxyz::OptParams::n()'],['../classspgxyz_1_1xml_data.html#aff64a03e2ca9d9e071926a16ef0fa281',1,'spgxyz::xmlData::n()']]],
+  ['na_1',['na',['../namespacespgxyz.html#aefe8b95e4fb928addb12f2ab4657ccc4',1,'spgxyz']]],
+  ['nd_2',['nd',['../namespacespgxyz.html#a810d798a66486f53fe3f8a99457fbff2',1,'spgxyz']]],
+  ['newline_3',['newline',['../namespaceget_stage1_d_d_g_e_m.html#a970476e4af54d20b117a75dbaac8320f',1,'getStage1DDGEM.newline()'],['../namespaceget_stage2_d_d_g_e_m.html#af99f540b830a5c1bc95ccfc19a802733',1,'getStage2DDGEM.newline()']]],
+  ['next_4',['next',['../uniontinyxml2_1_1_mem_pool_t_1_1_item.html#a5620107f518c60d6619e8662d4c9d643',1,'tinyxml2::MemPoolT::Item']]],
+  ['niter_5',['nIter',['../structspgxyz_1_1_opt_params.html#aa94d4031db07e69c554ba61bd524125f',1,'spgxyz::OptParams']]],
+  ['nkf_6',['nkf',['../namespacespgxyz.html#a1737982ac45f96c105ad793bf2a64696',1,'spgxyz']]],
+  ['nok_7',['nOK',['../namespaceget_stage2_d_d_g_e_m.html#a42853856d6a910c09afc4ee8c2c2ef4d',1,'getStage2DDGEM']]],
+  ['nopt_8',['nopt',['../classspgxyz_1_1dd_param_rec.html#a03f8bbd2533822eb4952f581fcf8495f',1,'spgxyz::ddParamRec']]],
+  ['noptimisations_9',['nOptimisations',['../structspgxyz_1_1_opt_params.html#a2aedba6ea83ce7101375d87beaefbce0',1,'spgxyz::OptParams']]],
+  ['nopts_10',['nopts',['../ddgem_8cpp.html#ac3f9403ebe0be15f2b76b8d7d28a49c2',1,'nopts():&#160;ddgem.cpp'],['../dd_param_rec_8cpp.html#ac3f9403ebe0be15f2b76b8d7d28a49c2',1,'nopts():&#160;ddParamRec.cpp']]],
+  ['nprolific_11',['nprolific',['../namespaceget_stage2_d_d_g_e_m.html#a0bddc4a6ce07a0868e17c52a4a3ee962',1,'getStage2DDGEM']]],
+  ['npseq_12',['npseq',['../namespacespgxyz.html#afb4bc9779a99caeb42e2f473383299c1',1,'spgxyz']]],
+  ['nrun_13',['nrun',['../dd_param_rec_8cpp.html#a0d2f4f26612b57901e8b902ad5dbfbc0',1,'ddParamRec.cpp']]],
+  ['ns2_14',['ns2',['../namespacespgxyz.html#ad02c4878bac20fe86cbe4fe4e8cf4d87',1,'spgxyz']]],
+  ['nvars_15',['nVars',['../structspgxyz_1_1_opt_params.html#a633469a87a98a2960aa555b253e91f20',1,'spgxyz::OptParams']]]
+];

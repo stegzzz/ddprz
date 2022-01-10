@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['capacity_0',['Capacity',['../classtinyxml2_1_1_dyn_array.html#a8e101fdf5b4248ac119d7dca6d0f5421',1,'tinyxml2::DynArray']]],
+  ['cdata_1',['CData',['../classtinyxml2_1_1_x_m_l_text.html#ac1bb5ea4166c320882d9e0ad16fd385b',1,'tinyxml2::XMLText']]],
+  ['checks2choices_2',['checkS2Choices',['../namespacespgxyz.html#abfde5a07ed88f97f92163679219464e6',1,'spgxyz']]],
+  ['choice_3',['choice',['../namespacespgxyz.html#a25130b1a83ef2b40cd6d9ead3aca04eb',1,'spgxyz']]],
+  ['clear_4',['Clear',['../classtinyxml2_1_1_dyn_array.html#af87a804cd831226d069274b44b74b8bc',1,'tinyxml2::DynArray::Clear()'],['../classtinyxml2_1_1_mem_pool_t.html#a22d595caa0e9d23aa080f49ca6475fdd',1,'tinyxml2::MemPoolT::Clear()'],['../classtinyxml2_1_1_x_m_l_document.html#a65656b0b2cbc822708eb351504178aaf',1,'tinyxml2::XMLDocument::Clear()']]],
+  ['clearbuffer_5',['ClearBuffer',['../classtinyxml2_1_1_x_m_l_printer.html#a690cb140ba98b7339734ff865f56b0b3',1,'tinyxml2::XMLPrinter']]],
+  ['clearerror_6',['ClearError',['../classtinyxml2_1_1_x_m_l_document.html#a4085d9c52f1d93214311459d6d1fcf17',1,'tinyxml2::XMLDocument']]],
+  ['closeelement_7',['CloseElement',['../classtinyxml2_1_1_x_m_l_printer.html#af1fb439e5d800999646f333fa2f0699a',1,'tinyxml2::XMLPrinter']]],
+  ['closingtype_8',['ClosingType',['../classtinyxml2_1_1_x_m_l_element.html#a6965ff89557f27d4082d7043d5145555',1,'tinyxml2::XMLElement']]],
+  ['collapsewhitespace_9',['CollapseWhitespace',['../classtinyxml2_1_1_str_pair.html#ade1469025e6b4cac74397a82a7429337',1,'tinyxml2::StrPair']]],
+  ['compactmode_10',['CompactMode',['../classtinyxml2_1_1_x_m_l_printer.html#a38e1ed5a779bdf63eda9e808f7a6de66',1,'tinyxml2::XMLPrinter']]],
+  ['compare_11',['compare',['../namespacespgxyz.html#a908634b51bc5dc81a0d40014df4ecc89',1,'spgxyz::compare(char const *val, double const d, double const tol=0.0001)'],['../namespacespgxyz.html#a0e79ee8a3710f39311e7c59d3e5d45ba',1,'spgxyz::compare(double const d1, double const d2, double const tol=0.0001)']]],
+  ['computea_12',['computeA',['../classspgxyz_1_1abcrit.html#ab1b68e367b96308029e9067cc4539f3b',1,'spgxyz::abcrit']]],
+  ['computeb_13',['computeB',['../classspgxyz_1_1abcrit.html#ac997a2e6d386392c0f78ed1dc09e0851',1,'spgxyz::abcrit']]],
+  ['computed_14',['computeD',['../classspgxyz_1_1abcrit.html#a045870bc7cee3b978e262b34abc2b4d0',1,'spgxyz::abcrit']]],
+  ['convertutf32toutf8_15',['ConvertUTF32ToUTF8',['../classtinyxml2_1_1_x_m_l_util.html#a31c00d5c5dfb38382de1dfcaf4be3595',1,'tinyxml2::XMLUtil']]],
+  ['createattribute_16',['CreateAttribute',['../classtinyxml2_1_1_x_m_l_element.html#a10e25b09c308a8658d2d6b464745bdc3',1,'tinyxml2::XMLElement']]],
+  ['createunlinkednode_17',['CreateUnlinkedNode',['../classtinyxml2_1_1_x_m_l_document.html#acda2123b71a6e6534be9f48e75ea680a',1,'tinyxml2::XMLDocument']]],
+  ['createxml_18',['createXML',['../classspgxyz_1_1_test_x_m_l_generator.html#a4cdee7f95927dca73c428b00e21bb6e5',1,'spgxyz::TestXMLGenerator']]],
+  ['cstr_19',['CStr',['../classtinyxml2_1_1_x_m_l_printer.html#abfa772366c44a17cdeb8aea294d57f78',1,'tinyxml2::XMLPrinter']]],
+  ['cstrsize_20',['CStrSize',['../classtinyxml2_1_1_x_m_l_printer.html#a3256cf3523d4898b91abb18b924be04c',1,'tinyxml2::XMLPrinter']]],
+  ['currentallocs_21',['CurrentAllocs',['../classtinyxml2_1_1_mem_pool_t.html#a445a6c80151ba6268b24ec62a7c84d74',1,'tinyxml2::MemPoolT']]]
+];
