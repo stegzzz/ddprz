@@ -78,6 +78,8 @@
  *   - <a href="https://github.com/leethomason/tinyxml2">TinyXML-2</a>
  *   - <a href="https://github.com/stevengj/nlopt">NLopt</a>
  *   - <a href="http://www.boost.org/">Boost</a>
+ *   - <a href="https://www.gnu.org/software/cgicc/index.html">GNU cgicc</a>
+ *
  *
  * An additional program is available (ddParamRec.exe) for simulation of delay
  * discounting and for a parameter recovery investigation see
