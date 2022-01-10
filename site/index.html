@@ -1,0 +1,26 @@
+<html>
+<body>
+<form action="submit.php" method="post">
+<label class="container">Save CGI environment?
+  <input type="checkbox" name="check">
+  <span class="checkmark"></span>
+  </label>
+<label class="container">Send to AWS?
+  <input type="checkbox" name="aws">
+  <span class="checkmark"></span>
+ </label>
+<label class="container">Select xml
+  <input type="text" name="xml" value="testXMLPacket1.xml"><br><br>
+  <input type="submit" value="Submit">
+</label>
+</form>
+
+<?php
+$files=glob("*.xml");
+foreach ( $files as $filename) {
+    echo "$filename"."<br>";
+}
+
+?>
+</body>
+</html>

@@ -1,0 +1,29 @@
+#parameter file for ddParamRec.exe NB format param\t\t# description for each parameter
+#optimiser
+10		# int number of optimisations
+200		# int max n interations
+NELDERMEAD		# string algorithm one of NELDERMEAD, SUBPLEX, BOBYQA, and COBYLA
+#model
+0.03		# double discount rate k for a
+0.015		# double discount rate K for A
+0.1		# double sensitivity parameter g
+#data generation
+1000		# int number of data points to generate
+820		# double a (smaller reward)
+1000		# double A (larger reward)
+5		# double as, number of steps below for amounts
+5		# double ds, number of steps below for delays
+24	12	6	3	1	0.5	0.25		# doubles, first set of Ds
+2400	1200	600	300	100	50	25		# doubles, second set of Ds
+0		# bool (0/1) for front end delays on S with delays1
+1		# bool (0/1) for front end delays on S with delays2
+#input/output
+ddpr.par		# string parameter file to read/write
+data		# string file stem to write generated responses
+ddpr.txt		# string file to write recovery results
+1		# bool (0/1) to save generated responses
+1		# bool (0/1) to save recovery results
+1		# bool (0/1) to append recovery results
+#misc
+0		# bool (0/1) print some details during run
+0		# bool (0/1) switch off all output during run
